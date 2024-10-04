@@ -35,8 +35,13 @@ conda activate ds
 pip install notebook # jupyter
 pip install spyder
 ```
+Then
+```
+jupyter notebook
+```
 
 ## Naming System
 Cxx_FiveWordDescription_vx.xx       
 Dxx_FiveWordDescription_vx.xx         
+
 
